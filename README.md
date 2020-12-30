@@ -1,9 +1,6 @@
 **Awesome ICS/SCADA Writeups** 
 
 ![awesome badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
---------------------------
-
-
 ----------
 
 A collection of writeups related to ICS/SCADA hacking. This inclues areas like OT, IoT and IIoT. It covers exploitation writeups, vendor blogs, talks, CTF writeups etc.
@@ -23,12 +20,11 @@ A collection of writeups related to ICS/SCADA hacking. This inclues areas like O
  - https://www.vanimpe.eu/2017/03/23/shodan-telling-us-ics-belgium/
  - http://www.scada.sl/2013/01/sux.html
  - http://www.scada.sl/2018/09/how-to-hack-sd-wan-and-keep-your-sanity.html
- - 
  
 
 
 ----------
-**Have a writeup that can fit here, feel free to raise a Pull Request.** 
+**Have a writeup that can fit here, feel free to raise a Pull Request. :tada:** 
 
 *To-do*
 
