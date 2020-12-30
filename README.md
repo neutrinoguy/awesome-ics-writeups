@@ -5,7 +5,7 @@
 
 A collection of writeups related to ICS/SCADA hacking. This inclues areas like OT, IoT and IIoT. It covers exploitation writeups, vendor blogs, talks, CTF writeups etc.
 
-**Disclaimer: The work linked here is soley owned by the respective authors. This is just a collection of them.**
+**Disclaimer: The work linked here is solely owned by the respective authors. This is just a collection of them.**
 
  - https://stepfunc.io/blog/tmw-bug-chain-and-rust/
  - https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020 
@@ -20,6 +20,7 @@ A collection of writeups related to ICS/SCADA hacking. This inclues areas like O
  - https://www.vanimpe.eu/2017/03/23/shodan-telling-us-ics-belgium/
  - http://www.scada.sl/2013/01/sux.html
  - http://www.scada.sl/2018/09/how-to-hack-sd-wan-and-keep-your-sanity.html
+ - https://1modm.github.io/CVE-2019-12480.html
  
 
 
