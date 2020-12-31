@@ -21,6 +21,9 @@ A collection of writeups related to ICS/SCADA hacking. This inclues areas like O
  - http://www.scada.sl/2013/01/sux.html
  - http://www.scada.sl/2018/09/how-to-hack-sd-wan-and-keep-your-sanity.html
  - https://1modm.github.io/CVE-2019-12480.html
+ - https://airbus-cyber-security.com/remote-code-execution-on-ecostruxure-plc-simulator/
+ - https://airbus-cyber-security.com/abusing-a-shared-memory-for-getting-a-local-privilege-escalation-on-the-schneider-electric-modbus-serial-driver-cve-2020-7523/
+ - https://airbus-cyber-security.com/applying-a-stuxnet-type-attack-to-a-modicon-plc/
  
 
 
