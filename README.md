@@ -39,7 +39,51 @@ A collection of writeups related to ICS/SCADA hacking. This inclues areas like O
  - https://talosintelligence.com/vulnerability_reports/TALOS-2020-1003 [:first_quarter_moon:]
  - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0771 [:full_moon:]
  - https://talosintelligence.com/vulnerability_reports/TALOS-2017-0445 [:full_moon:]
- 
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2020-1026
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2020-1025
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2020-1024
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2020-1069
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2016-0184
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2020-1144
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0868
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0825
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0827
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0847
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0822
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0824
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2020-1144
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0851
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0823
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0826
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0866
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0867
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0808
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0807
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2018-0736
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0806
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0766
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2018-0735
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0763
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2018-0737
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0764
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0765
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2018-0738
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2018-0745
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2018-0739
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2018-0743
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0768
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2018-0740
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2018-0741
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0769
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2018-0742
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0770
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0767
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0868
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0825
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0827
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0847
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0822
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0824
 
 
 ----------
@@ -48,3 +92,4 @@ A collection of writeups related to ICS/SCADA hacking. This inclues areas like O
 *To-do*
 
  1. Classify writeups under separate sections.
+ 2. Add details classification to each writeup.
