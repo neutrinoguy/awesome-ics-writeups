@@ -29,6 +29,8 @@ A collection of writeups related to ICS/SCADA hacking. This inclues areas like O
  - https://airbus-cyber-security.com/abusing-a-shared-memory-for-getting-a-local-privilege-escalation-on-the-schneider-electric-modbus-serial-driver-cve-2020-7523/ [:full_moon:]
  - https://airbus-cyber-security.com/applying-a-stuxnet-type-attack-to-a-modicon-plc/ [:full_moon:]
  - https://vimeo.com/53806381 [:new_moon:]
+ - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/vulnerabilities-in-schneider-electric-somachine-and-m221-plc/ [:full_moon:]
+ - https://ioactive.com/warcodes-attacking-ics-through-industrial-barcode-scanners/
  
 
 
