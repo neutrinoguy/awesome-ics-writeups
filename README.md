@@ -31,6 +31,10 @@ A collection of writeups related to ICS/SCADA hacking. This inclues areas like O
  - https://vimeo.com/53806381 [:new_moon:]
  - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/vulnerabilities-in-schneider-electric-somachine-and-m221-plc/ [:full_moon:]
  - https://ioactive.com/warcodes-attacking-ics-through-industrial-barcode-scanners/
+ - https://www.vdoo.com/blog/vdoo-discovers-significant-vulnerabilities-in-axis-cameras [:full_moon:]
+ - https://www.vdoo.com/blog/significant-vulnerability-in-hikvision-cameras [:full_moon:]
+ - https://www.vdoo.com/blog/giving-back-securing-open-source-iot-projects [:full_moon:]
+ - https://www.vdoo.com/blog/vdoo-has-found-major-vulnerabilities-in-foscam-cameras [:full_moon:]
  
 
 
