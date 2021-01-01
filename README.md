@@ -35,6 +35,10 @@ A collection of writeups related to ICS/SCADA hacking. This inclues areas like O
  - https://www.vdoo.com/blog/significant-vulnerability-in-hikvision-cameras [:full_moon:]
  - https://www.vdoo.com/blog/giving-back-securing-open-source-iot-projects [:full_moon:]
  - https://www.vdoo.com/blog/vdoo-has-found-major-vulnerabilities-in-foscam-cameras [:full_moon:]
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2020-1140 [:full_moon:]
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2020-1003 [:first_quarter_moon:]
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0771 [:full_moon:]
+ - https://talosintelligence.com/vulnerability_reports/TALOS-2017-0445 [:full_moon:]
  
 
 
