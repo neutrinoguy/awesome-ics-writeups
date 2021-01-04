@@ -84,6 +84,8 @@ A collection of writeups related to ICS/SCADA hacking. This inclues areas like O
  - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0847
  - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0822
  - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0824
+ - https://www.fireeye.com/blog/threat-research/2020/07/financially-motivated-actors-are-expanding-access-into-ot.html
+ - https://www.fireeye.com/blog/threat-research/2019/04/triton-actor-ttp-profile-custom-attack-tools-detections.html
 
 
 ----------
