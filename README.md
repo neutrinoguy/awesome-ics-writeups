@@ -3,7 +3,7 @@
 ![awesome badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ----------
 
-A collection of writeups related to ICS/SCADA hacking. This inclues areas like OT, IoT and IIoT. It covers exploitation writeups, vendor blogs, talks, CTF writeups etc.
+A collection of writeups related to ICS/SCADA hacking. This covers areas like OT, IoT and IIoT. It includes exploitation writeups, vendor blogs, talks, CTF writeups etc.
 
 :full_moon: = Full details 
 :first_quarter_moon: = Partial details
