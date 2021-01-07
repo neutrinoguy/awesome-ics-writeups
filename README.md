@@ -101,5 +101,5 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 
 *To-do*
 
- 1. Classify writeups under separate sections.
- 2. Add details classification to each writeup.
+- [ ] Classify writeups under separate sections.
+- [ ] Add details classification to each writeup.
