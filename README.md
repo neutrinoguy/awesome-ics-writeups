@@ -100,6 +100,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
  - https://www.zerodayinitiative.com/blog/2020/1/15/reliably-finding-and-exploiting-icsscada-bugs
  - https://medium.com/tenable-techblog/plc-bug-hunt-fa3a0aeae9ab
  - https://www.atredis.com/blog/2018/5/14/ge-healthcare-mac-5500-vulnerabilities
+ - https://media.ccc.de/v/34c3-8956-scada_-_gateway_to_s_hell 
  
 
 
