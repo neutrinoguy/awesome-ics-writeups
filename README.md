@@ -95,6 +95,12 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
  - https://ics-cert.kaspersky.com/reports/2019/09/18/security-research-codesys-runtime-a-plc-control-framework-part-3/
  - https://ics-cert.kaspersky.com/reports/2020/10/08/montysthree-industrial-espionage-with-steganography-and-a-russian-accent-on-both-sides/
  - https://www.domaintools.com/resources/blog/def-con-ics-ctf [CTF]
+ - https://www.thezdi.com/blog/2020/7/22/chaining-5-bugs-for-code-execution-on-the-rockwell-factorytalk-hmi-at-pwn2own-miami
+ - https://srcincite.io/blog/2020/02/18/silent-schneider-revealing-a-hidden-patch-in-ecostruxure-operator-terminal-expert.html
+ - https://www.zerodayinitiative.com/blog/2020/1/15/reliably-finding-and-exploiting-icsscada-bugs
+ - https://medium.com/tenable-techblog/plc-bug-hunt-fa3a0aeae9ab
+ - https://www.atredis.com/blog/2018/5/14/ge-healthcare-mac-5500-vulnerabilities
+ 
 
 
 ----------
