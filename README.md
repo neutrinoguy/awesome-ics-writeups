@@ -19,6 +19,11 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 ### Tenable
  - https://medium.com/tenable-techblog/plc-bug-hunt-fa3a0aeae9ab
 
+
+### Trend Micro
+- https://documents.trendmicro.com/assets/wp/wp-industrial-robot-security.pdf
+
+
 ### Kaspersky
 - https://ics-cert.kaspersky.com/reports/2018/03/12/somebodys-watching-when-cameras-are-more-than-just-smart/
 - https://ics-cert.kaspersky.com/reports/2018/02/28/iot-hack-how-to-break-a-smart-home-again/
@@ -116,6 +121,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://srcincite.io/blog/2020/02/18/silent-schneider-revealing-a-hidden-patch-in-ecostruxure-operator-terminal-expert.html
 - https://www.atredis.com/blog/2018/5/14/ge-healthcare-mac-5500-vulnerabilities
 - https://media.ccc.de/v/34c3-8956-scada_-_gateway_to_s_hell
+- https://www.synacktiv.com/publications/izi-izi-pwn2own-ics-miami.html
+- https://labs.f-secure.com/archive/offensive-ics-exploitation-a-technical-description/ [CTF]
  
 
 
