@@ -83,6 +83,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0847
 - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0822
 - https://talosintelligence.com/vulnerability_reports/TALOS-2019-0824
+- https://talosintelligence.com/vulnerability_reports/TALOS-2020-1174
+- https://talosintelligence.com/vulnerability_reports/TALOS-2020-1184
 
 ### Fireeye
  - https://www.fireeye.com/blog/threat-research/2020/07/financially-motivated-actors-are-expanding-access-into-ot.html
