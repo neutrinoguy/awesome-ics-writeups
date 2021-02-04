@@ -128,6 +128,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://media.ccc.de/v/34c3-8956-scada_-_gateway_to_s_hell
 - https://www.synacktiv.com/publications/izi-izi-pwn2own-ics-miami.html
 - https://labs.f-secure.com/archive/offensive-ics-exploitation-a-technical-description/ [CTF]
+- https://grimminck.medium.com/running-a-fake-power-plant-on-the-internet-for-a-month-4a624f685aaa 
  
 
 
