@@ -104,6 +104,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.vdoo.com/blog/significant-vulnerability-in-hikvision-cameras [:full_moon:]
 - https://www.vdoo.com/blog/giving-back-securing-open-source-iot-projects [:full_moon:]
 - https://www.vdoo.com/blog/vdoo-has-found-major-vulnerabilities-in-foscam-cameras [:full_moon:]
+- https://www.vdoo.com/blog/cve-2020-25860-significant-vulnerability-discovered-rauc-embedded-firmware-update-framework
+- https://www.vdoo.com/blog/realtek-rtl8195a-vulnerabilities-discovered
 
 ### Others 
 
