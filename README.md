@@ -16,6 +16,11 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://airbus-cyber-security.com/abusing-a-shared-memory-for-getting-a-local-privilege-escalation-on-the-schneider-electric-modbus-serial-driver-cve-2020-7523/ [:full_moon:]
 - https://airbus-cyber-security.com/applying-a-stuxnet-type-attack-to-a-modicon-plc/ [:full_moon:]
 
+### Applied Risk
+- https://applied-risk.com/resources/multiple-vulnerabilities-in-moxa-iologik-e1200-series
+- https://applied-risk.com/resources/exploiting-a-kunbus-gateway-module-for-modbus-tcp-2
+- https://applied-risk.com/resources/ge_ifix_advisory
+
 ### Tenable
  - https://medium.com/tenable-techblog/plc-bug-hunt-fa3a0aeae9ab
 
