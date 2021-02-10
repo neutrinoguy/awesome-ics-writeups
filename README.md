@@ -96,6 +96,11 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
  - https://www.fireeye.com/blog/threat-research/2020/07/financially-motivated-actors-are-expanding-access-into-ot.html
  - https://www.fireeye.com/blog/threat-research/2019/04/triton-actor-ttp-profile-custom-attack-tools-detections.html
 
+
+ ### Forescout
+- https://www.forescout.com/company/resources/amnesia33-how-tcp-ip-stacks-breed-critical-vulnerabilities-in-iot-ot-and-it-devices/ [:first_quarter_moon:]
+- https://www.forescout.com/company/blog/numberjack-forescout-research-labs-finds-nine-isn-generation-vulnerabilities-affecting-tcpip-stacks/
+
 ### Zero day Initiative
  - https://www.zerodayinitiative.com/blog/2020/8/24/cve-2020-10611-achieving-code-execution-on-the-triangle-microworks-scada-data-gateway 
  - https://www.zerodayinitiative.com/blog/2020/6/10/a-trio-of-bugs-used-to-exploit-inductive-automation-at-pwn2own-miami 
@@ -126,7 +131,6 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://vimeo.com/53806381 [:new_moon:]
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/vulnerabilities-in-schneider-electric-somachine-and-m221-plc/ [:full_moon:]
 - https://ioactive.com/warcodes-attacking-ics-through-industrial-barcode-scanners/
-- https://www.forescout.com/company/resources/amnesia33-how-tcp-ip-stacks-breed-critical-vulnerabilities-in-iot-ot-and-it-devices/ [:first_quarter_moon:]
 - https://www.domaintools.com/resources/blog/def-con-ics-ctf [CTF]
 - https://srcincite.io/blog/2020/02/18/silent-schneider-revealing-a-hidden-patch-in-ecostruxure-operator-terminal-expert.html
 - https://www.atredis.com/blog/2018/5/14/ge-healthcare-mac-5500-vulnerabilities
