@@ -21,6 +21,13 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://applied-risk.com/resources/exploiting-a-kunbus-gateway-module-for-modbus-tcp-2
 - https://applied-risk.com/resources/ge_ifix_advisory
 
+### Claroty
+- https://www.claroty.com/2020/05/14/security-flaws-in-software-based-plc-enable-remote-code-execution-on-windows-box/
+- https://www.claroty.com/2020/11/10/blog-research-schneider-m221-plcs/
+- https://www.claroty.com/2020/12/17/blog-research-rce-vulnerability-in-wago-firmware/
+- https://www.claroty.com/2020/07/15/cve-2020-14511/
+- https://www.claroty.com/2020/05/28/eds-subsystem-vulnerabilities-expose-ot-assets-to-malicious-file-delivery/
+
 ### Tenable
  - https://medium.com/tenable-techblog/plc-bug-hunt-fa3a0aeae9ab
 
@@ -102,7 +109,11 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
  - https://www.fireeye.com/blog/threat-research/2021/02/solarcity-exploitation-of-x2e-iot-device-part-two.html
 
 
- ### Forescout
+### Fortinet
+- https://www.fortinet.com/blog/threat-research/ekans-ransomware-targeting-ot-ics-systems
+
+
+### Forescout
 - https://www.forescout.com/company/resources/amnesia33-how-tcp-ip-stacks-breed-critical-vulnerabilities-in-iot-ot-and-it-devices/ [:first_quarter_moon:]
 - https://www.forescout.com/company/blog/numberjack-forescout-research-labs-finds-nine-isn-generation-vulnerabilities-affecting-tcpip-stacks/
 
@@ -121,6 +132,12 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.vdoo.com/blog/vdoo-has-found-major-vulnerabilities-in-foscam-cameras [:full_moon:]
 - https://www.vdoo.com/blog/cve-2020-25860-significant-vulnerability-discovered-rauc-embedded-firmware-update-framework
 - https://www.vdoo.com/blog/realtek-rtl8195a-vulnerabilities-discovered
+
+### Medigate
+- https://www.medigate.io/lexmark-printers-firmware-extraction-part-a/
+- https://www.medigate.io/lexmark-printers-firmware-extraction-part-b/
+- https://www.medigate.io/lexmark-printers-firmware-extraction-part-c/
+
 
 ### Others 
 
