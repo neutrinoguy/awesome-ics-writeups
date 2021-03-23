@@ -109,6 +109,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://labs.f-secure.com/archive/offensive-ics-exploitation-a-technical-description/ [CTF]
 - https://grimminck.medium.com/running-a-fake-power-plant-on-the-internet-for-a-month-4a624f685aaa 
 - https://medium.com/@npcole/packet-modification-attack-on-plc-with-arp-spoofing-mitm-attack-f0c4d58e3e83
+- https://halcyonic.net/2019-04-21-rockwell-zero-day/
+- https://www.midnightbluelabs.com/blog/2018/1/16/analyzing-the-triton-industrial-malware [Malware]
 
  
 ### Cisco Talos
