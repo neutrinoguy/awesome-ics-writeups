@@ -108,6 +108,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.synacktiv.com/publications/izi-izi-pwn2own-ics-miami.html
 - https://labs.f-secure.com/archive/offensive-ics-exploitation-a-technical-description/ [CTF]
 - https://grimminck.medium.com/running-a-fake-power-plant-on-the-internet-for-a-month-4a624f685aaa 
+- https://medium.com/@npcole/packet-modification-attack-on-plc-with-arp-spoofing-mitm-attack-f0c4d58e3e83
+
  
 ### Cisco Talos
 - https://talosintelligence.com/vulnerability_reports/TALOS-2020-1140 [:full_moon:]
