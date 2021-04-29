@@ -86,6 +86,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.medigate.io/lexmark-printers-firmware-extraction-part-b/
 - https://www.medigate.io/lexmark-printers-firmware-extraction-part-c/
 
+### Microsoft
+- https://msrc-blog.microsoft.com/2021/04/29/badalloc-memory-allocation-vulnerabilities-could-affect-wide-range-of-iot-and-ot-devices-in-industrial-medical-and-enterprise-networks/
 
 ### Miscellaneous
 
