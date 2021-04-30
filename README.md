@@ -21,6 +21,9 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://applied-risk.com/resources/exploiting-a-kunbus-gateway-module-for-modbus-tcp-2
 - https://applied-risk.com/resources/ge_ifix_advisory
 
+### Armis
+- https://info.armis.com/rs/645-PDC-047/images/Urgent11%20Technical%20White%20Paper.pdf 
+
 ### Claroty
 - https://www.claroty.com/2020/05/14/security-flaws-in-software-based-plc-enable-remote-code-execution-on-windows-box/
 - https://www.claroty.com/2020/11/10/blog-research-schneider-m221-plcs/
@@ -64,6 +67,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 ### Forescout
 - https://www.forescout.com/company/resources/amnesia33-how-tcp-ip-stacks-breed-critical-vulnerabilities-in-iot-ot-and-it-devices/ [:first_quarter_moon:]
 - https://www.forescout.com/company/blog/numberjack-forescout-research-labs-finds-nine-isn-generation-vulnerabilities-affecting-tcpip-stacks/
+- https://www.forescout.com/company/resources/namewreck-breaking-and-fixing-dns-implementations/
 
 ### Zero day Initiative
  - https://www.zerodayinitiative.com/blog/2020/8/24/cve-2020-10611-achieving-code-execution-on-the-triangle-microworks-scada-data-gateway 
