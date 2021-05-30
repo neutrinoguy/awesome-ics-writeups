@@ -30,6 +30,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.claroty.com/2020/12/17/blog-research-rce-vulnerability-in-wago-firmware/
 - https://www.claroty.com/2020/07/15/cve-2020-14511/
 - https://www.claroty.com/2020/05/28/eds-subsystem-vulnerabilities-expose-ot-assets-to-malicious-file-delivery/
+- https://www.claroty.com/2021/05/28/blog-research-race-to-native-code-execution-in-plcs/
 
 ### CyberArk
 - https://www.cyberark.com/resources/threat-research-blog/bug-hunting-stories-schneider-electric-the-andover-continuum-web-client
