@@ -22,7 +22,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://applied-risk.com/resources/ge_ifix_advisory
 
 ### Armis
-- https://info.armis.com/rs/645-PDC-047/images/Urgent11%20Technical%20White%20Paper.pdf 
+- https://info.armis.com/rs/645-PDC-047/images/Urgent11%20Technical%20White%20Paper.pdf
+- https://www.armis.com/research/modipwn/ 
 
 ### Claroty
 - https://www.claroty.com/2020/05/14/security-flaws-in-software-based-plc-enable-remote-code-execution-on-windows-box/
