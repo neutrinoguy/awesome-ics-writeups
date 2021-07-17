@@ -38,7 +38,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 
 ### Tenable
  - https://medium.com/tenable-techblog/plc-bug-hunt-fa3a0aeae9ab
-
+ - https://medium.com/tenable-techblog/examining-crypto-and-bypassing-authentication-in-schneider-electric-plcs-m340-m580-f37cf9f3ff34
 
 ### Trend Micro
 - https://documents.trendmicro.com/assets/wp/wp-industrial-robot-security.pdf
