@@ -70,6 +70,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.forescout.com/company/resources/amnesia33-how-tcp-ip-stacks-breed-critical-vulnerabilities-in-iot-ot-and-it-devices/ [:first_quarter_moon:]
 - https://www.forescout.com/company/blog/numberjack-forescout-research-labs-finds-nine-isn-generation-vulnerabilities-affecting-tcpip-stacks/
 - https://www.forescout.com/company/resources/namewreck-breaking-and-fixing-dns-implementations/
+- https://www.forescout.com/resources/infrahalt-discovering-mitigating-large-scale-ot-vulnerabilities/
 
 ### Zero day Initiative
  - https://www.zerodayinitiative.com/blog/2020/8/24/cve-2020-10611-achieving-code-execution-on-the-triangle-microworks-scada-data-gateway 
