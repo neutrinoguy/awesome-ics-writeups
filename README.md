@@ -33,6 +33,11 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.claroty.com/2020/07/15/cve-2020-14511/
 - https://www.claroty.com/2020/05/28/eds-subsystem-vulnerabilities-expose-ot-assets-to-malicious-file-delivery/
 - https://www.claroty.com/2021/05/28/blog-research-race-to-native-code-execution-in-plcs/
+- https://www.claroty.com/2021/02/25/blog-research-critical-authentication-bypass-in-rockwell-software/
+- https://www.claroty.com/2021/03/23/blog-research-vulnerabilities-in-tbox-rtus/
+- https://www.claroty.com/2021/04/01/blog-research-critical-vulnerabilities-found-in-rockwell-factorytalk-assetcentre/
+- https://www.claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash/
+- https://www.claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/
 
 ### CyberArk
 - https://www.cyberark.com/resources/threat-research-blog/bug-hunting-stories-schneider-electric-the-andover-continuum-web-client
@@ -40,9 +45,16 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 ### Tenable
  - https://medium.com/tenable-techblog/plc-bug-hunt-fa3a0aeae9ab
  - https://medium.com/tenable-techblog/examining-crypto-and-bypassing-authentication-in-schneider-electric-plcs-m340-m580-f37cf9f3ff34
+ - https://www.tenable.com/security/research/tra-2021-50
+ - https://www.tenable.com/security/research/tra-2021-47
+ - https://www.tenable.com/security/research/tra-2021-40
+ - https://www.tenable.com/security/research/tra-2021-28
+ - https://www.tenable.com/security/research/tra-2021-24
 
 ### Trend Micro
 - https://documents.trendmicro.com/assets/wp/wp-industrial-robot-security.pdf
+- https://www.trendmicro.com/en_us/research/20/e/fake-company-real-threats-building-a-fake-manufacturing-system-for-a-sting.html
+- https://www.trendmicro.com/en_us/research/20/e/fake-company-real-threats-the-reality-of-cyberattacks-on-factories.html 
 
 
 ### Kaspersky
@@ -64,7 +76,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 
 
 ### Fortinet
-- https://www.fortinet.com/blog/threat-research/ekans-ransomware-targeting-ot-ics-systems
+- https://www.fortinet.com/blog/threat-research/ekans-ransomware-targeting-ot-ics-systems [Malware]
 
 
 ### Forescout
@@ -72,6 +84,9 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.forescout.com/company/blog/numberjack-forescout-research-labs-finds-nine-isn-generation-vulnerabilities-affecting-tcpip-stacks/
 - https://www.forescout.com/company/resources/namewreck-breaking-and-fixing-dns-implementations/
 - https://www.forescout.com/resources/infrahalt-discovering-mitigating-large-scale-ot-vulnerabilities/
+- https://www.forescout.com/resources/nucleus13-research-report-dissecting-the-nucleus-tcpip-stack/
+- https://www.forescout.com/resources/project-memoria-lookback-report/ 
+
 
 ### Zero day Initiative
  - https://www.zerodayinitiative.com/blog/2020/8/24/cve-2020-10611-achieving-code-execution-on-the-triangle-microworks-scada-data-gateway 
@@ -89,6 +104,10 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.vdoo.com/blog/cve-2020-25860-significant-vulnerability-discovered-rauc-embedded-firmware-update-framework
 - https://www.vdoo.com/blog/realtek-rtl8195a-vulnerabilities-discovered
 
+### Nozomi Networks
+- https://www.nozominetworks.com/downloads/US/Nozomi-Networks-GreyEnergy-Dissecting-the-Malware.pdf [Malware]
+- https://www.nozominetworks.com/downloads/US/Nozomi-Networks-TRITON-The-First-SIS-Cyberattack.pdf [Malware]
+
 ### Medigate
 - https://www.medigate.io/lexmark-printers-firmware-extraction-part-a/
 - https://www.medigate.io/lexmark-printers-firmware-extraction-part-b/
@@ -96,6 +115,9 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 
 ### Microsoft
 - https://msrc-blog.microsoft.com/2021/04/29/badalloc-memory-allocation-vulnerabilities-could-affect-wide-range-of-iot-and-ot-devices-in-industrial-medical-and-enterprise-networks/
+
+### WeLiveSecurity
+- https://www.welivesecurity.com/wp-content/uploads/2018/10/ESET_GreyEnergy.pdf [Malware]
 
 ### Miscellaneous
 
@@ -121,6 +143,11 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://medium.com/@npcole/packet-modification-attack-on-plc-with-arp-spoofing-mitm-attack-f0c4d58e3e83
 - https://halcyonic.net/2019-04-21-rockwell-zero-day/
 - https://www.midnightbluelabs.com/blog/2018/1/16/analyzing-the-triton-industrial-malware [Malware]
+- https://isc.sans.edu/forums/diary/Looking+for+malicious+traffic+in+electrical+SCADA+networks+part+1/17967
+- https://isc.sans.edu/forums/diary/Looking+for+malicious+traffic+in+electrical+SCADA+networks+part+2+solving+problems+with+DNP3+Secure+Authentication+Version+5/17981
+- https://isc.sans.edu/forums/diary/Authentication+Issues+between+entities+during+protocol+message+exchange+in+SCADA+Systems/13927
+- https://sergiusechel.medium.com/misconfiguration-in-ilc-gsm-gprs-devices-leaves-over-1-200-ics-devices-vulnerable-to-attacks-over-82c2d4a91561
+
 
  
 ### Cisco Talos
@@ -178,6 +205,20 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://talosintelligence.com/vulnerability_reports/TALOS-2020-1008
 - https://talosintelligence.com/vulnerability_reports/TALOS-2020-1169
 - https://talosintelligence.com/vulnerability_reports/TALOS-2020-1168
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1236
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1273
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1271
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1272
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1270
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1274
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1306
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1304
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1303
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1301
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1302
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1300
+- https://talosintelligence.com/vulnerability_reports/TALOS-2021-1305
+
 
 ----------
 **Have a writeup that can fit here, feel free to raise a Pull Request. :octocat:** 
@@ -187,3 +228,4 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - [ ] Classify writeups under separate sections.
 - [ ] Add details classification to each writeup.
 - [ ] Add Contributing Instructions.
+- [ ] Add Conference Talks on ICS/OT/IIoT
