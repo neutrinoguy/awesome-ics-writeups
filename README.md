@@ -38,6 +38,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.claroty.com/2021/04/01/blog-research-critical-vulnerabilities-found-in-rockwell-factorytalk-assetcentre/
 - https://www.claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash/
 - https://www.claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/
+- https://www.claroty.com/2021/12/13/blog-research-bugs-in-the-cloud-how-one-vulnerability-exposed-offline-devices-to-a-security-risk/
+
 
 ### CyberArk
 - https://www.cyberark.com/resources/threat-research-blog/bug-hunting-stories-schneider-electric-the-andover-continuum-web-client
@@ -50,6 +52,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
  - https://www.tenable.com/security/research/tra-2021-40
  - https://www.tenable.com/security/research/tra-2021-28
  - https://www.tenable.com/security/research/tra-2021-24
+ - https://www.tenable.com/security/research/tra-2021-51
+ - https://medium.com/tenable-techblog/arris-cable-modem-teardown-5e294b7007eb
 
 ### Trend Micro
 - https://documents.trendmicro.com/assets/wp/wp-industrial-robot-security.pdf
