@@ -1,6 +1,8 @@
 # Awesome ICS/SCADA Writeups
 
 ![awesome badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+![GitHub forks](https://img.shields.io/github/forks/neutrinoguy/awesome-ics-writeups?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/neutrinoguy/awesome-ics-writeups?style=flat-square)
 ----------
 
 A collection of writeups related to ICS/SCADA hacking. This covers areas like OT, IoT and IIoT. It includes exploitation writeups, vendor blogs, talks, CTF writeups etc.
@@ -39,6 +41,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash/
 - https://www.claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/
 - https://www.claroty.com/2021/12/13/blog-research-bugs-in-the-cloud-how-one-vulnerability-exposed-offline-devices-to-a-security-risk/
+- https://claroty.com/2021/09/21/blog-research-securing-network-management-systems-nagios-xi/
+- https://www.claroty.com/2022/02/10/blog-research-securing-network-management-systems-moxa-mxview/ 
 
 
 ### CyberArk
@@ -129,6 +133,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - http://muffsec.com/blog/?p=608 
 - https://medium.com/cognite/pwn2own-or-not2pwn-part-1-3f152c44563e [:full_moon:]
 - https://medium.com/cognite/pwn2own-or-not2pwn-part-2-5-a-brief-tale-of-free-0days-e1df142eb815 [:full_moon:]
+https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-392fd00a0ec8 [:full_moon:]
 - https://www.jsof-tech.com/wp-content/uploads/2020/06/JSOF_Ripple20_Technical_Whitepaper_June20.pdf [:first_quarter_moon:]
 - https://www.vanimpe.eu/2017/03/23/shodan-telling-us-ics-belgium/
 - http://www.scada.sl/2013/01/sux.html 
