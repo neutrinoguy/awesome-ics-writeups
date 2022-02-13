@@ -1,8 +1,8 @@
 # Awesome ICS/SCADA Writeups
 
 ![awesome badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-![GitHub forks](https://img.shields.io/github/forks/neutrinoguy/awesome-ics-writeups?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/neutrinoguy/awesome-ics-writeups?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/neutrinoguy/awesome-ics-writeups?style=flat-square)
 ----------
 
 A collection of writeups related to ICS/SCADA hacking. This covers areas like OT, IoT and IIoT. It includes exploitation writeups, vendor blogs, talks, CTF writeups etc.
