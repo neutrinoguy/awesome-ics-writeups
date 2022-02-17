@@ -141,6 +141,8 @@ https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-39
 - https://1modm.github.io/CVE-2019-12480.html 
 - https://vimeo.com/53806381 [:new_moon:]
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/vulnerabilities-in-schneider-electric-somachine-and-m221-plc/ [:full_moon:]
+- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/attacking-scada-part-ii-vulnerabilities-in-schneider-electric-ecostruxure-machine-expert-and-m221-plc/
+- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/attacking-scada-part-iii-hardcoded-salt-in-schneider-electric-ecostruxure-machine-expert-cve-2020-28214/
 - https://ioactive.com/warcodes-attacking-ics-through-industrial-barcode-scanners/
 - https://www.domaintools.com/resources/blog/def-con-ics-ctf [CTF]
 - https://srcincite.io/blog/2020/02/18/silent-schneider-revealing-a-hidden-patch-in-ecostruxure-operator-terminal-expert.html
