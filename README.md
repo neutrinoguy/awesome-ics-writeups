@@ -42,7 +42,10 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/
 - https://www.claroty.com/2021/12/13/blog-research-bugs-in-the-cloud-how-one-vulnerability-exposed-offline-devices-to-a-security-risk/
 - https://claroty.com/2021/09/21/blog-research-securing-network-management-systems-nagios-xi/
-- https://www.claroty.com/2022/02/10/blog-research-securing-network-management-systems-moxa-mxview/ 
+- https://www.claroty.com/2022/02/10/blog-research-securing-network-management-systems-moxa-mxview/
+
+### CrowdStrike
+- https://www.crowdstrike.com/blog/how-to-pwn2own-the-cisco-rv340-router/ 
 
 
 ### CyberArk
@@ -93,7 +96,11 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.forescout.com/company/resources/namewreck-breaking-and-fixing-dns-implementations/
 - https://www.forescout.com/resources/infrahalt-discovering-mitigating-large-scale-ot-vulnerabilities/
 - https://www.forescout.com/resources/nucleus13-research-report-dissecting-the-nucleus-tcpip-stack/
-- https://www.forescout.com/resources/project-memoria-lookback-report/ 
+- https://www.forescout.com/resources/project-memoria-lookback-report/
+
+
+### NCC Group
+- https://research.nccgroup.com/2022/03/24/remote-code-execution-on-western-digital-pr4100-nas-cve-2022-23121/  
 
 
 ### Zero day Initiative
