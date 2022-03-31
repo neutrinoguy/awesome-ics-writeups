@@ -43,6 +43,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.claroty.com/2021/12/13/blog-research-bugs-in-the-cloud-how-one-vulnerability-exposed-offline-devices-to-a-security-risk/
 - https://claroty.com/2021/09/21/blog-research-securing-network-management-systems-nagios-xi/
 - https://www.claroty.com/2022/02/10/blog-research-securing-network-management-systems-moxa-mxview/
+- https://claroty.com/2022/03/31/blog-research-hiding-code-on-rockwell-automation-plcs/
 
 ### CrowdStrike
 - https://www.crowdstrike.com/blog/how-to-pwn2own-the-cisco-rv340-router/ 
