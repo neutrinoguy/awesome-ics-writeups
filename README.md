@@ -99,6 +99,9 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.forescout.com/resources/nucleus13-research-report-dissecting-the-nucleus-tcpip-stack/
 - https://www.forescout.com/resources/project-memoria-lookback-report/
 
+### McAffee
+- https://www.mcafee.com/blogs/other-blogs/mcafee-labs/hvacking-understanding-the-delta-between-security-and-reality/
+
 
 ### NCC Group
 - https://research.nccgroup.com/2022/03/24/remote-code-execution-on-western-digital-pr4100-nas-cve-2022-23121/  
