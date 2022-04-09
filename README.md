@@ -99,7 +99,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.forescout.com/resources/nucleus13-research-report-dissecting-the-nucleus-tcpip-stack/
 - https://www.forescout.com/resources/project-memoria-lookback-report/
 
-### McAffee
+### McAfee
 - https://www.mcafee.com/blogs/other-blogs/mcafee-labs/hvacking-understanding-the-delta-between-security-and-reality/
 
 
