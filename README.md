@@ -44,6 +44,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/2021/09/21/blog-research-securing-network-management-systems-nagios-xi/
 - https://www.claroty.com/2022/02/10/blog-research-securing-network-management-systems-moxa-mxview/
 - https://claroty.com/2022/03/31/blog-research-hiding-code-on-rockwell-automation-plcs/
+- https://claroty.com/2022/04/14/blog-research-blinding-snort-breaking-the-modbus-ot-preprocessor/
 
 ### CrowdStrike
 - https://www.crowdstrike.com/blog/how-to-pwn2own-the-cisco-rv340-router/ 
@@ -51,6 +52,10 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 
 ### CyberArk
 - https://www.cyberark.com/resources/threat-research-blog/bug-hunting-stories-schneider-electric-the-andover-continuum-web-client
+
+### Dragos
+- https://hub.dragos.com/hubfs/116-Whitepapers/Dragos_ChernoviteWP_v2b.pdf [Malware]
+- https://www.dragos.com/blog/industry-news/chernovite-pipedream-malware-targeting-industrial-control-systems/
 
 ### Tenable
  - https://medium.com/tenable-techblog/plc-bug-hunt-fa3a0aeae9ab
@@ -127,6 +132,10 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.nozominetworks.com/downloads/US/Nozomi-Networks-GreyEnergy-Dissecting-the-Malware.pdf [Malware]
 - https://www.nozominetworks.com/downloads/US/Nozomi-Networks-TRITON-The-First-SIS-Cyberattack.pdf [Malware]
 
+
+### Mandiant
+- https://www.mandiant.com/resources/incontroller-state-sponsored-ics-tool [Malware]
+
 ### Medigate
 - https://www.medigate.io/lexmark-printers-firmware-extraction-part-a/
 - https://www.medigate.io/lexmark-printers-firmware-extraction-part-b/
@@ -135,8 +144,13 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 ### Microsoft
 - https://msrc-blog.microsoft.com/2021/04/29/badalloc-memory-allocation-vulnerabilities-could-affect-wide-range-of-iot-and-ot-devices-in-industrial-medical-and-enterprise-networks/
 
+
+### Scadafence
+- https://www.scadafence.com/wp-content/uploads/2022/04/SCADAfence-Hack-The-Port-Report-2022.pdf [Whitepaper]
+
 ### WeLiveSecurity
 - https://www.welivesecurity.com/wp-content/uploads/2018/10/ESET_GreyEnergy.pdf [Malware]
+- https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/ [Malware]
 
 ### Miscellaneous
 
