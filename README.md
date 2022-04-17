@@ -53,6 +53,9 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 ### CyberArk
 - https://www.cyberark.com/resources/threat-research-blog/bug-hunting-stories-schneider-electric-the-andover-continuum-web-client
 
+### Cynerio
+- https://assets.website-files.com/5d2ad783e06f4c19469d363a/625551dd440d0b187fa96d38_JekyllBot-5-Vulnerability-Disclosure-Report.pdf
+
 ### Dragos
 - https://hub.dragos.com/hubfs/116-Whitepapers/Dragos_ChernoviteWP_v2b.pdf [Malware]
 - https://www.dragos.com/blog/industry-news/chernovite-pipedream-malware-targeting-industrial-control-systems/
