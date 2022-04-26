@@ -110,6 +110,12 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 ### McAfee
 - https://www.mcafee.com/blogs/other-blogs/mcafee-labs/hvacking-understanding-the-delta-between-security-and-reality/
 
+### Netresec
+- https://www.netresec.com/?page=Blog&month=2014-11&post=Observing-the-Havex-RAT [Malware]
+- https://www.netresec.com/?page=Blog&month=2014-10&post=Full-Disclosure-of-Havex-Trojans [Malware]
+- https://www.netresec.com/?page=Blog&month=2012-08&post=SCADA-Network-Forensics-with-IEC-104
+- https://www.netresec.com/?page=Blog&month=2022-04&post=Industroyer2-IEC-104-Analysis [Malware]
+
 
 ### NCC Group
 - https://research.nccgroup.com/2022/03/24/remote-code-execution-on-western-digital-pr4100-nas-cve-2022-23121/  
