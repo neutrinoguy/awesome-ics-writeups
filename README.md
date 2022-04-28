@@ -140,10 +140,12 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 ### Nozomi Networks
 - https://www.nozominetworks.com/downloads/US/Nozomi-Networks-GreyEnergy-Dissecting-the-Malware.pdf [Malware]
 - https://www.nozominetworks.com/downloads/US/Nozomi-Networks-TRITON-The-First-SIS-Cyberattack.pdf [Malware]
+- https://www.nozominetworks.com/blog/industroyer2-nozomi-networks-labs-analyzes-the-iec-104-payload/ [Malware]
 
 
 ### Mandiant
 - https://www.mandiant.com/resources/incontroller-state-sponsored-ics-tool [Malware]
+- https://www.mandiant.com/resources/industroyer-v2-old-malware-new-tricks [Malware]  
 
 ### Medigate
 - https://www.medigate.io/lexmark-printers-firmware-extraction-part-a/
