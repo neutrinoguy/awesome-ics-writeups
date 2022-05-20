@@ -45,6 +45,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.claroty.com/2022/02/10/blog-research-securing-network-management-systems-moxa-mxview/
 - https://claroty.com/2022/03/31/blog-research-hiding-code-on-rockwell-automation-plcs/
 - https://claroty.com/2022/04/14/blog-research-blinding-snort-breaking-the-modbus-ot-preprocessor/
+- https://claroty.com/2022/05/11/blog-research-from-project-file-to-code-execution-exploiting-vulnerabilities-in-xinje-plc-program-tool/
+
 
 ### CrowdStrike
 - https://www.crowdstrike.com/blog/how-to-pwn2own-the-cisco-rv340-router/ 
@@ -74,7 +76,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 ### Trend Micro
 - https://documents.trendmicro.com/assets/wp/wp-industrial-robot-security.pdf
 - https://www.trendmicro.com/en_us/research/20/e/fake-company-real-threats-building-a-fake-manufacturing-system-for-a-sting.html
-- https://www.trendmicro.com/en_us/research/20/e/fake-company-real-threats-the-reality-of-cyberattacks-on-factories.html 
+- https://www.trendmicro.com/en_us/research/20/e/fake-company-real-threats-the-reality-of-cyberattacks-on-factories.html
+- https://documents.trendmicro.com/assets/wp/wp-hacker-machine-interface.pdf  
 
 
 ### Kaspersky
