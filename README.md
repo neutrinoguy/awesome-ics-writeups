@@ -145,6 +145,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.nozominetworks.com/downloads/US/Nozomi-Networks-GreyEnergy-Dissecting-the-Malware.pdf [Malware]
 - https://www.nozominetworks.com/downloads/US/Nozomi-Networks-TRITON-The-First-SIS-Cyberattack.pdf [Malware]
 - https://www.nozominetworks.com/blog/industroyer2-nozomi-networks-labs-analyzes-the-iec-104-payload/ [Malware]
+- https://www.nozominetworks.com/downloads/US/Nozomi-Networks-WP-Industroyer2.pdf [Malware]
 
 
 ### Mandiant
@@ -158,6 +159,10 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 
 ### Microsoft
 - https://msrc-blog.microsoft.com/2021/04/29/badalloc-memory-allocation-vulnerabilities-could-affect-wide-range-of-iot-and-ot-devices-in-industrial-medical-and-enterprise-networks/
+
+### Redfox Security
+- https://redfoxsec.com/blog/plc-hacking-part-1/
+- https://redfoxsec.com/blog/plc-hacking-part-2/
 
 
 ### Scadafence
