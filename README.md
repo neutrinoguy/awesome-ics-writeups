@@ -48,6 +48,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/2022/05/11/blog-research-from-project-file-to-code-execution-exploiting-vulnerabilities-in-xinje-plc-program-tool/
 - https://claroty.com/2022/06/16/blog-research-securing-network-management-systems-part-3-siemens-sinec-nms/
 - https://claroty.com/team82/research/white-papers/evil-plc-attack-weaponizing-plcs
+- https://claroty.com/team82/research/jumping-nat-to-shut-down-electric-devices
 
 
 ### CrowdStrike
@@ -212,6 +213,7 @@ https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-39
 - https://isc.sans.edu/forums/diary/Authentication+Issues+between+entities+during+protocol+message+exchange+in+SCADA+Systems/13927
 - https://sergiusechel.medium.com/misconfiguration-in-ilc-gsm-gprs-devices-leaves-over-1-200-ics-devices-vulnerable-to-attacks-over-82c2d4a91561
 - https://www.redtimmy.com/iot-ics-armageddon-hacking-devices-like-theres-no-tomorrow-part-1/
+- https://trenchant.io/two-lines-of-jscript-for-20000-pwn2own-miami-2022/
 
 
 
