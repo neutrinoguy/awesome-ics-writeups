@@ -49,6 +49,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/2022/06/16/blog-research-securing-network-management-systems-part-3-siemens-sinec-nms/
 - https://claroty.com/team82/research/white-papers/evil-plc-attack-weaponizing-plcs
 - https://claroty.com/team82/research/jumping-nat-to-shut-down-electric-devices
+- https://claroty.com/team82/research/the-race-to-native-code-execution-in-plcs-using-rce-to-uncover-siemens-simatic-s7-1200-1500-hardcoded-cryptographic-keys
 
 
 ### CrowdStrike
