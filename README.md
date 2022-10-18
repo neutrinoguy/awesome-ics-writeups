@@ -28,6 +28,10 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.armis.com/research/modipwn/ 
 - https://www.armis.com/research/pwnedpiper/
 
+### AWESEC
+- https://awesec.com/advisories/AWE-2022-059.html
+
+
 ### Claroty
 - https://www.claroty.com/2020/05/14/security-flaws-in-software-based-plc-enable-remote-code-execution-on-windows-box/
 - https://www.claroty.com/2020/11/10/blog-research-schneider-m221-plcs/
@@ -165,6 +169,11 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 
 ### Microsoft
 - https://msrc-blog.microsoft.com/2021/04/29/badalloc-memory-allocation-vulnerabilities-could-affect-wide-range-of-iot-and-ot-devices-in-industrial-medical-and-enterprise-networks/
+
+
+### Rapid-7
+- https://www.rapid7.com/blog/post/2019/12/09/how-i-shut-down-a-test-factory-with-a-single-layer-2-packet/
+
 
 ### Redfox Security
 - https://redfoxsec.com/blog/plc-hacking-part-1/
