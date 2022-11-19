@@ -54,6 +54,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/team82/research/white-papers/evil-plc-attack-weaponizing-plcs
 - https://claroty.com/team82/research/jumping-nat-to-shut-down-electric-devices
 - https://claroty.com/team82/research/the-race-to-native-code-execution-in-plcs-using-rce-to-uncover-siemens-simatic-s7-1200-1500-hardcoded-cryptographic-keys
+- https://claroty.com/team82/research/an-oil-and-gas-weak-spot-flow-computers
 
 
 ### CrowdStrike
@@ -97,6 +98,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://ics-cert.kaspersky.com/reports/2019/09/18/security-research-codesys-runtime-a-plc-control-framework-part-3/
 - https://ics-cert.kaspersky.com/reports/2020/10/08/montysthree-industrial-espionage-with-steganography-and-a-russian-accent-on-both-sides/
 - https://ics-cert.kaspersky.com/publications/reports/2022/05/23/isapwn-research-on-the-security-of-isagraf-runtime/
+- https://ics-cert.kaspersky.com/publications/reports/2022/09/29/the-secrets-of-schneider-electrics-umas-protocol/
 
 
 ### Fireeye
@@ -224,7 +226,8 @@ https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-39
 - https://sergiusechel.medium.com/misconfiguration-in-ilc-gsm-gprs-devices-leaves-over-1-200-ics-devices-vulnerable-to-attacks-over-82c2d4a91561
 - https://www.redtimmy.com/iot-ics-armageddon-hacking-devices-like-theres-no-tomorrow-part-1/
 - https://trenchant.io/two-lines-of-jscript-for-20000-pwn2own-miami-2022/
-
+- https://guillaumebour.fr/articles/security_testing_pacemaker_ecosystem/part_1_introduction_context_methodology/ (5 Part Series)
+- https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/
 
 
  
