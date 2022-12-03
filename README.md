@@ -158,6 +158,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.nozominetworks.com/downloads/US/Nozomi-Networks-TRITON-The-First-SIS-Cyberattack.pdf [Malware]
 - https://www.nozominetworks.com/blog/industroyer2-nozomi-networks-labs-analyzes-the-iec-104-payload/ [Malware]
 - https://www.nozominetworks.com/downloads/US/Nozomi-Networks-WP-Industroyer2.pdf [Malware]
+- https://www.nozominetworks.com/blog/how-iot-botnets-evade-detection-and-analysis/ [Malware]
+- https://www.nozominetworks.com/blog/how-iot-botnets-evade-detection-and-analysis-part-2/ [Malware]
 
 
 ### Mandiant
