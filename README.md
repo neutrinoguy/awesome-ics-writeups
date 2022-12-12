@@ -230,6 +230,7 @@ https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-39
 - https://trenchant.io/two-lines-of-jscript-for-20000-pwn2own-miami-2022/
 - https://guillaumebour.fr/articles/security_testing_pacemaker_ecosystem/part_1_introduction_context_methodology/ (5 Part Series)
 - https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/
+- https://www.guidepointsecurity.com/blog/guidepoint-security-researcher-discovers-vulnerability-in-the-integrity-of-common-hmi-client-server-protocol/
 
 
  
