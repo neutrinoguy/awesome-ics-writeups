@@ -81,6 +81,12 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
  - https://www.tenable.com/security/research/tra-2021-24
  - https://www.tenable.com/security/research/tra-2021-51
  - https://medium.com/tenable-techblog/arris-cable-modem-teardown-5e294b7007eb
+ - https://www.tenable.com/security/research/tra-2022-33
+ - https://www.tenable.com/security/research/tra-2022-32
+ - https://www.tenable.com/security/research/tra-2022-23
+ - https://www.tenable.com/security/research/tra-2022-22
+ - https://www.tenable.com/security/research/tra-2022-13
+
 
 ### Trend Micro
 - https://documents.trendmicro.com/assets/wp/wp-industrial-robot-security.pdf
@@ -160,6 +166,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.nozominetworks.com/downloads/US/Nozomi-Networks-WP-Industroyer2.pdf [Malware]
 - https://www.nozominetworks.com/blog/how-iot-botnets-evade-detection-and-analysis/ [Malware]
 - https://www.nozominetworks.com/blog/how-iot-botnets-evade-detection-and-analysis-part-2/ [Malware]
+- https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-1/
 
 
 ### Mandiant
@@ -191,9 +198,18 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/
 - https://sector7.computest.nl/post/2022-07-inductive-automation-ignition-rce/
 
+### SSD Disclousre 
+- https://ssd-disclosure.com/ssd-advisory-hongdian-h8922-multiple-vulnerabilities/
+
+
 ### WeLiveSecurity
 - https://www.welivesecurity.com/wp-content/uploads/2018/10/ESET_GreyEnergy.pdf [Malware]
 - https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/ [Malware]
+
+### Viettel Security 
+- https://blog.viettelcybersecurity.com/security-wall-of-s7commplus-part-1/
+- https://blog.viettelcybersecurity.com/security-wall-of-s7commplus-3/
+
 
 ### Miscellaneous
 
