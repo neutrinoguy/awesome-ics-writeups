@@ -5,7 +5,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/neutrinoguy/awesome-ics-writeups?style=flat-square)
 ----------
 
-A collection of writeups related to ICS/SCADA hacking. This covers areas like OT, IoT and IIoT. It includes exploitation writeups, vendor blogs, talks, CTF writeups etc.
+A collection of writeups related to ICS/SCADA hacking. This covers areas like OT, IoT and IIoT. It includes exploitation writeups, vendor blogs, talks, CTF writeups etc. 
+
+Awesome ICS/SCADA/OT related videos can be found here: [Awesome-ICS-Videos](awesome-ics-videos.md)
 
 :full_moon: = Full details 
 :first_quarter_moon: = Partial details
@@ -185,6 +187,9 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 ### Rapid-7
 - https://www.rapid7.com/blog/post/2019/12/09/how-i-shut-down-a-test-factory-with-a-single-layer-2-packet/
 
+
+### Redballoon Security 
+- https://redballoonsecurity.com/siemens-discovery/
 
 ### Redfox Security
 - https://redfoxsec.com/blog/plc-hacking-part-1/
