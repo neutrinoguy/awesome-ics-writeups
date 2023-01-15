@@ -7,7 +7,7 @@
 
 A collection of writeups related to ICS/SCADA hacking. This covers areas like OT, IoT and IIoT. It includes exploitation writeups, vendor blogs, talks, CTF writeups etc. 
 
-Awesome ICS/SCADA/OT related videos can be found here: [Awesome-ICS-Videos](awesome-ics-videos.md)
+:new: Awesome ICS/SCADA/OT related videos can be found here: [Awesome-ICS-Videos](awesome-ics-videos.md)
 
 :full_moon: = Full details 
 :first_quarter_moon: = Partial details
