@@ -13,7 +13,7 @@ Awesome ICS/SCADA/OT related videos can be found here: [Awesome-ICS-Videos](awes
 :first_quarter_moon: = Partial details
 :new_moon: = No details 
 
-**Disclaimer: The work linked here is solely owned by the respective authors. This is just a collection of them.**
+:warning: **Disclaimer: The work linked here is solely owned by the respective authors. This is just a collection of them.** :warning:
 
 ### Airbus
 - https://airbus-cyber-security.com/remote-code-execution-on-ecostruxure-plc-simulator/ [:full_moon:]

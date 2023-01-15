@@ -2,7 +2,7 @@
 
 This includes Proof of Concepts, Conference talks, Demonstrations etc. 
 
-**Disclaimer: The work linked here is solely owned by the respective authors. This is just a collection of them.**
+:warning: **Disclaimer: The work linked here is solely owned by the respective authors. This is just a collection of them.** :warning:
 
 
 ### Claroty 
@@ -16,4 +16,4 @@ This includes Proof of Concepts, Conference talks, Demonstrations etc.
 - https://www.youtube.com/watch?v=yx39_2GCR_I [Session Highlights OTCEP 2022 8]
 - https://www.youtube.com/watch?v=ZtMO-F7zraI [Attacking your OT Network - Sharon Brizinov]
 - https://www.youtube.com/watch?v=lggrDCYsVpw [Sharon Brizinov - Changium IPiosa magical change IP packets in the wild - DEF CON 27 ICS Village]
-- https://www.youtube.com/watch?v=COhXUjtCVMU [EF CON 29 ICS Village - Sharon Brizinov, Uri Katz - Down Exploiting Vulnerabilities In the OT Cloud]
+- https://www.youtube.com/watch?v=COhXUjtCVMU [DEF CON 29 ICS Village - Sharon Brizinov, Uri Katz - Down Exploiting Vulnerabilities In the OT Cloud]
