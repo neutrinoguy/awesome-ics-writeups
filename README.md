@@ -57,6 +57,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/team82/research/jumping-nat-to-shut-down-electric-devices
 - https://claroty.com/team82/research/the-race-to-native-code-execution-in-plcs-using-rce-to-uncover-siemens-simatic-s7-1200-1500-hardcoded-cryptographic-keys
 - https://claroty.com/team82/research/an-oil-and-gas-weak-spot-flow-computers
+- https://claroty.com/team82/research/hacking-ics-historians-the-pivot-point-from-it-to-ot
 
 
 ### CrowdStrike
