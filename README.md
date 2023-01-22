@@ -199,6 +199,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 
 ### Scadafence
 - https://www.scadafence.com/wp-content/uploads/2022/04/SCADAfence-Hack-The-Port-Report-2022.pdf [Whitepaper]
+- https://blog.scadafence.com/scadafence-discovers-first-cves-detected-in-alerton-plcs
 
 ### Sector7
 - https://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/
