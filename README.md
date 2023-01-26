@@ -143,7 +143,12 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 ### NCC Group
 - https://research.nccgroup.com/2022/03/24/remote-code-execution-on-western-digital-pr4100-nas-cve-2022-23121/
 - https://research.nccgroup.com/wp-content/uploads/2022/07/pwn2own-3-bugs-technical-external.pdf
-- https://research.nccgroup.com/wp-content/uploads/2022/07/pwn2own-how-to-win-external.pdf  
+- https://research.nccgroup.com/wp-content/uploads/2022/07/pwn2own-how-to-win-external.pdf 
+
+
+### Onkey
+- https://onekey.com/blog/advisory-festo-cecc-x-m1-command-injection-vulnerabilities/
+- https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/ 
 
 
 ### Zero day Initiative
