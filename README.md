@@ -152,7 +152,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 
 
 ### OTORIO
-- https://www.otorio.com/blog/airlink-acemanager-vulnerabilities/ 
+- https://www.otorio.com/blog/airlink-acemanager-vulnerabilities/
+- https://go.otorio.com/hubfs/Whitepapers%20and%20Reports/whitepaper%20-%20Industrial%20wireless%20IoT%20research.pdf  
 
 
 ### Zero day Initiative
