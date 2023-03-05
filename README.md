@@ -180,6 +180,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.nozominetworks.com/blog/how-iot-botnets-evade-detection-and-analysis/ [Malware]
 - https://www.nozominetworks.com/blog/how-iot-botnets-evade-detection-and-analysis-part-2/ [Malware]
 - https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-1/
+- https://www.nozominetworks.com/blog/flaws-in-hitachi-relion-650-670-series-ieds-update-mechanism/
 
 
 ### Mandiant
