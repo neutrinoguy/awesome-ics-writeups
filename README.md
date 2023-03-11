@@ -208,6 +208,11 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://redfoxsec.com/blog/plc-hacking-part-2/
 
 
+### Saiflow 
+- https://www.saiflow.com/how-mishandling-of-websockets-can-cause-dos-and-energy-theft/
+- https://www.saiflow.com/hijacking-chargers-identifier-to-cause-dos/
+
+
 ### Scadafence
 - https://www.scadafence.com/wp-content/uploads/2022/04/SCADAfence-Hack-The-Port-Report-2022.pdf [Whitepaper]
 - https://blog.scadafence.com/scadafence-discovers-first-cves-detected-in-alerton-plcs
@@ -265,6 +270,7 @@ https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-39
 - https://guillaumebour.fr/articles/security_testing_pacemaker_ecosystem/part_1_introduction_context_methodology/ (5 Part Series)
 - https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/
 - https://www.guidepointsecurity.com/blog/guidepoint-security-researcher-discovers-vulnerability-in-the-integrity-of-common-hmi-client-server-protocol/
+- https://trenchant.io/two-lines-of-jscript-for-20000-pwn2own-miami-2022/
 
 
  
