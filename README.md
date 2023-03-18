@@ -58,6 +58,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/team82/research/the-race-to-native-code-execution-in-plcs-using-rce-to-uncover-siemens-simatic-s7-1200-1500-hardcoded-cryptographic-keys
 - https://claroty.com/team82/research/an-oil-and-gas-weak-spot-flow-computers
 - https://claroty.com/team82/research/hacking-ics-historians-the-pivot-point-from-it-to-ot
+- https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms 
 
 
 ### CrowdStrike
@@ -271,6 +272,8 @@ https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-39
 - https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/
 - https://www.guidepointsecurity.com/blog/guidepoint-security-researcher-discovers-vulnerability-in-the-integrity-of-common-hmi-client-server-protocol/
 - https://trenchant.io/two-lines-of-jscript-for-20000-pwn2own-miami-2022/
+- https://starlabs.sg/blog/2023/02-gotta-kep-tcha-em-all-bypassing-anti-debugging-methods-in-kepserver/
+
 
 
  
