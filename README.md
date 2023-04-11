@@ -273,6 +273,7 @@ https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-39
 - https://www.guidepointsecurity.com/blog/guidepoint-security-researcher-discovers-vulnerability-in-the-integrity-of-common-hmi-client-server-protocol/
 - https://trenchant.io/two-lines-of-jscript-for-20000-pwn2own-miami-2022/
 - https://starlabs.sg/blog/2023/02-gotta-kep-tcha-em-all-bypassing-anti-debugging-methods-in-kepserver/
+- https://www.reversemode.com/2023/04/losing-control-over-schneiders.html 
 
 
 
