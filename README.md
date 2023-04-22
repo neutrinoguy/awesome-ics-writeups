@@ -150,6 +150,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 ### Onkey
 - https://onekey.com/blog/advisory-festo-cecc-x-m1-command-injection-vulnerabilities/
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/
+- https://onekey.com/blog/security-advisory-netmodule-multiple-vulnerabilities/ 
 
 
 ### OTORIO
