@@ -58,7 +58,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/team82/research/the-race-to-native-code-execution-in-plcs-using-rce-to-uncover-siemens-simatic-s7-1200-1500-hardcoded-cryptographic-keys
 - https://claroty.com/team82/research/an-oil-and-gas-weak-spot-flow-computers
 - https://claroty.com/team82/research/hacking-ics-historians-the-pivot-point-from-it-to-ot
-- https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms 
+- https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms
+- https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways 
 
 
 ### CrowdStrike
@@ -147,7 +148,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://research.nccgroup.com/wp-content/uploads/2022/07/pwn2own-how-to-win-external.pdf 
 
 
-### Onkey
+### Onekey
 - https://onekey.com/blog/advisory-festo-cecc-x-m1-command-injection-vulnerabilities/
 - https://onekey.com/blog/security-advisory-wago-unauthenticated-config-export-vulnerability/
 - https://onekey.com/blog/security-advisory-netmodule-multiple-vulnerabilities/ 
