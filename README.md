@@ -75,6 +75,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 ### Dragos
 - https://hub.dragos.com/hubfs/116-Whitepapers/Dragos_ChernoviteWP_v2b.pdf [Malware]
 - https://www.dragos.com/blog/industry-news/chernovite-pipedream-malware-targeting-industrial-control-systems/
+- https://hub.dragos.com/hubfs/116-Whitepapers/Dragos_SB_COSMICENERGY_June23_FINAL_WEB.pdf [Malware]
 
 ### Tenable
  - https://medium.com/tenable-techblog/plc-bug-hunt-fa3a0aeae9ab
@@ -165,9 +166,11 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
  - https://www.thezdi.com/blog/2020/9/30/the-anatomy-of-a-bug-door-dissecting-two-d-link-router-authentication-bypasses 
  - https://www.thezdi.com/blog/2020/7/22/chaining-5-bugs-for-code-execution-on-the-rockwell-factorytalk-hmi-at-pwn2own-miami
  - https://www.zerodayinitiative.com/blog/2020/1/15/reliably-finding-and-exploiting-icsscada-bugs
- - https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020 
+ - https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020
+ - https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization
 
-### Vdoo
+
+### Jfrog (Vdoo)
 - https://www.vdoo.com/blog/vdoo-discovers-significant-vulnerabilities-in-axis-cameras [:full_moon:]
 - https://www.vdoo.com/blog/significant-vulnerability-in-hikvision-cameras [:full_moon:]
 - https://www.vdoo.com/blog/giving-back-securing-open-source-iot-projects [:full_moon:]
@@ -275,7 +278,8 @@ https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-39
 - https://www.guidepointsecurity.com/blog/guidepoint-security-researcher-discovers-vulnerability-in-the-integrity-of-common-hmi-client-server-protocol/
 - https://trenchant.io/two-lines-of-jscript-for-20000-pwn2own-miami-2022/
 - https://starlabs.sg/blog/2023/02-gotta-kep-tcha-em-all-bypassing-anti-debugging-methods-in-kepserver/
-- https://www.reversemode.com/2023/04/losing-control-over-schneiders.html 
+- https://www.reversemode.com/2023/04/losing-control-over-schneiders.html
+- https://eclypsium.com/blog/vendor-re-use-opens-the-aperture-on-many-vulnerabilities/ 
 
 
 
