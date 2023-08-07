@@ -59,7 +59,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/team82/research/an-oil-and-gas-weak-spot-flow-computers
 - https://claroty.com/team82/research/hacking-ics-historians-the-pivot-point-from-it-to-ot
 - https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms
-- https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways 
+- https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways
 
 
 ### CrowdStrike
@@ -92,6 +92,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
  - https://www.tenable.com/security/research/tra-2022-23
  - https://www.tenable.com/security/research/tra-2022-22
  - https://www.tenable.com/security/research/tra-2022-13
+ - https://www.tenable.com/security/research/tra-2023-13
+ - https://www.tenable.com/security/research/tra-2022-22
 
 
 ### Trend Micro
@@ -217,6 +219,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 ### Saiflow 
 - https://www.saiflow.com/how-mishandling-of-websockets-can-cause-dos-and-energy-theft/
 - https://www.saiflow.com/hijacking-chargers-identifier-to-cause-dos/
+- https://www.saiflow.com/the-impact-of-api-vulnerabilities-on-csms-services-charging-network-operators-the-use-case-of-abb-chargersync/
 
 
 ### Scadafence
@@ -279,7 +282,10 @@ https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-39
 - https://trenchant.io/two-lines-of-jscript-for-20000-pwn2own-miami-2022/
 - https://starlabs.sg/blog/2023/02-gotta-kep-tcha-em-all-bypassing-anti-debugging-methods-in-kepserver/
 - https://www.reversemode.com/2023/04/losing-control-over-schneiders.html
-- https://eclypsium.com/blog/vendor-re-use-opens-the-aperture-on-many-vulnerabilities/ 
+- https://eclypsium.com/blog/vendor-re-use-opens-the-aperture-on-many-vulnerabilities/
+- https://vulncheck.com/blog/solarview-exploitation
+- https://www.sentinelone.com/labs/acidrain-a-modem-wiper-rains-down-on-europe/ [Malware]
+- https://adlumin.com/post/powerdrop-a-new-insidious-powershell-script-for-command-and-control-attacks-targets-u-s-aerospace-defense-industry/ [Malware] 
 
 
 
