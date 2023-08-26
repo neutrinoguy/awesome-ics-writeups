@@ -220,6 +220,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.saiflow.com/how-mishandling-of-websockets-can-cause-dos-and-energy-theft/
 - https://www.saiflow.com/hijacking-chargers-identifier-to-cause-dos/
 - https://www.saiflow.com/the-impact-of-api-vulnerabilities-on-csms-services-charging-network-operators-the-use-case-of-abb-chargersync/
+- https://www.saiflow.com/abb-terra-ac-improper-authentication-can-lead-to-evse-takeover-cve-2023-0863-cve-2023-0864/
 
 
 ### Scadafence
@@ -285,7 +286,8 @@ https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-39
 - https://eclypsium.com/blog/vendor-re-use-opens-the-aperture-on-many-vulnerabilities/
 - https://vulncheck.com/blog/solarview-exploitation
 - https://www.sentinelone.com/labs/acidrain-a-modem-wiper-rains-down-on-europe/ [Malware]
-- https://adlumin.com/post/powerdrop-a-new-insidious-powershell-script-for-command-and-control-attacks-targets-u-s-aerospace-defense-industry/ [Malware] 
+- https://adlumin.com/post/powerdrop-a-new-insidious-powershell-script-for-command-and-control-attacks-targets-u-s-aerospace-defense-industry/ [Malware]
+- https://duck.moe/blog/blutacc/ 
 
 
 
