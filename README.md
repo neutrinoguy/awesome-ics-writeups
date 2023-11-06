@@ -60,6 +60,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/team82/research/hacking-ics-historians-the-pivot-point-from-it-to-ot
 - https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms
 - https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways
+- https://claroty.com/team82/research/the-path-to-the-cloud-is-filled-with-holes-exploiting-4g-edge-routers
 
 
 ### CrowdStrike
@@ -159,7 +160,9 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 
 ### OTORIO
 - https://www.otorio.com/blog/airlink-acemanager-vulnerabilities/
-- https://go.otorio.com/hubfs/Whitepapers%20and%20Reports/whitepaper%20-%20Industrial%20wireless%20IoT%20research.pdf  
+- https://go.otorio.com/hubfs/Whitepapers%20and%20Reports/whitepaper%20-%20Industrial%20wireless%20IoT%20research.pdf
+- https://www.otorio.com/blog/exploiting-automation-license-manager-using-dfs-for-pcs-7-takeover/
+
 
 
 ### Zero day Initiative
@@ -170,6 +173,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
  - https://www.zerodayinitiative.com/blog/2020/1/15/reliably-finding-and-exploiting-icsscada-bugs
  - https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020
  - https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization
+ - https://www.zerodayinitiative.com/blog/2023/9/7/looking-at-the-chargepoint-home-flex-threat-landscape
 
 
 ### Jfrog (Vdoo)
@@ -189,6 +193,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.nozominetworks.com/blog/how-iot-botnets-evade-detection-and-analysis-part-2/ [Malware]
 - https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-1/
 - https://www.nozominetworks.com/blog/flaws-in-hitachi-relion-650-670-series-ieds-update-mechanism/
+- https://www.nozominetworks.com/blog/protecting-the-phoenix-unveiling-critical-vulnerabilities-in-phoenix-contact-hmi-part-3
 
 
 ### Mandiant
