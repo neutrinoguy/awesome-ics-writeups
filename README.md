@@ -162,6 +162,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.otorio.com/blog/airlink-acemanager-vulnerabilities/
 - https://go.otorio.com/hubfs/Whitepapers%20and%20Reports/whitepaper%20-%20Industrial%20wireless%20IoT%20research.pdf
 - https://www.otorio.com/blog/exploiting-automation-license-manager-using-dfs-for-pcs-7-takeover/
+- https://www.otorio.com/blog/hijacking-abb-800xa-communication-for-admin-privileges/
 
 
 
@@ -198,7 +199,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 
 ### Mandiant
 - https://www.mandiant.com/resources/incontroller-state-sponsored-ics-tool [Malware]
-- https://www.mandiant.com/resources/industroyer-v2-old-malware-new-tricks [Malware]  
+- https://www.mandiant.com/resources/industroyer-v2-old-malware-new-tricks [Malware]
+- https://www.mandiant.com/resources/blog/sandworm-disrupts-power-ukraine-operational-technology [APT]  
 
 ### Medigate
 - https://www.medigate.io/lexmark-printers-firmware-extraction-part-a/
@@ -293,6 +295,7 @@ https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-39
 - https://www.sentinelone.com/labs/acidrain-a-modem-wiper-rains-down-on-europe/ [Malware]
 - https://adlumin.com/post/powerdrop-a-new-insidious-powershell-script-for-command-and-control-attacks-targets-u-s-aerospace-defense-industry/ [Malware]
 - https://duck.moe/blog/blutacc/ 
+- https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf [APT]
 
 
 
