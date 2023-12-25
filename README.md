@@ -61,6 +61,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/team82/research/the-silent-spy-among-us-modern-attacks-against-smart-intercoms
 - https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways
 - https://claroty.com/team82/research/the-path-to-the-cloud-is-filled-with-holes-exploiting-4g-edge-routers
+- https://claroty.com/team82/research/dicom-demystified-exploring-the-underbelly-of-medical-imaging
+- https://claroty.com/team82/research/opc-ua-deep-dive-history-of-the-opc-ua-protocol (OPC-UA Series)
 
 
 ### CrowdStrike
