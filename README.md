@@ -34,6 +34,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://awesec.com/advisories/AWE-2022-059.html
 
 
+
 ### Claroty
 - https://www.claroty.com/2020/05/14/security-flaws-in-software-based-plc-enable-remote-code-execution-on-windows-box/
 - https://www.claroty.com/2020/11/10/blog-research-schneider-m221-plcs/
@@ -63,6 +64,21 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/team82/research/the-path-to-the-cloud-is-filled-with-holes-exploiting-4g-edge-routers
 - https://claroty.com/team82/research/dicom-demystified-exploring-the-underbelly-of-medical-imaging
 - https://claroty.com/team82/research/opc-ua-deep-dive-history-of-the-opc-ua-protocol (OPC-UA Series)
+- https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware (ICS Malware)
+- https://claroty.com/team82/research/exploiting-a-classic-deserialization-vulnerability-in-siemens-simatic-energy-manager
+- https://claroty.com/team82/research/exploiting-honeywell-controledge-virtualuoc 
+- https://claroty.com/team82/research/threat-modeling-industrial-environments-using-virtual-factories-part-1
+- https://claroty.com/team82/research/practical-and-theoretical-attacks-in-the-industrial-landscape-part-2
+
+
+
+
+### Compass Security
+- https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-1-how-it-all-started/
+- https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-2-exploring-the-attack-surface/
+- https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-3-exploration/
+- https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-4-memory-corruption-analysis/
+- https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-5-the-exploit/
 
 
 ### CrowdStrike
@@ -197,6 +213,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-1/
 - https://www.nozominetworks.com/blog/flaws-in-hitachi-relion-650-670-series-ieds-update-mechanism/
 - https://www.nozominetworks.com/blog/protecting-the-phoenix-unveiling-critical-vulnerabilities-in-phoenix-contact-hmi-part-3
+- https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-1-firmware-analysis
+- https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-2-vulnerability-analysis
 
 
 ### Mandiant
@@ -300,7 +318,6 @@ https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-39
 - https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf [APT]
 - https://petrusviet.medium.com/cve-2023-50220-inductive-automation-ignition-xml-deserialization-to-rce-7b395412c6cf
 - https://eclypsium.com/blog/flatlined-analyzing-pulse-secure-firmware-and-bypassing-integrity-checking/
-
 
 
  
