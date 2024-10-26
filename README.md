@@ -69,6 +69,8 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/team82/research/exploiting-honeywell-controledge-virtualuoc 
 - https://claroty.com/team82/research/threat-modeling-industrial-environments-using-virtual-factories-part-1
 - https://claroty.com/team82/research/practical-and-theoretical-attacks-in-the-industrial-landscape-part-2
+- https://claroty.com/team82/research/bypassing-rockwell-automation-logix-controllers-local-chassis-security-protection
+- https://claroty.com/team82/research/mms-under-the-microscope-examining-the-security-of-a-power-automation-standard
 
 
 
@@ -193,6 +195,10 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
  - https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020
  - https://www.zerodayinitiative.com/blog/2023/2/6/pwn2owning-two-hosts-at-the-same-time-abusing-inductive-automation-ignitions-custom-deserialization
  - https://www.zerodayinitiative.com/blog/2023/9/7/looking-at-the-chargepoint-home-flex-threat-landscape
+ - https://www.zerodayinitiative.com/blog/2024/10/2/from-pwn2own-automotive-more-autel-maxicharger-vulnerabilities
+ - https://www.zerodayinitiative.com/blog/2024/8/22/from-pwn2own-automotive-taking-over-the-autel-maxicharger
+ - https://www.zerodayinitiative.com/blog/2024/7/25/multiple-vulnerabilities-in-the-deep-sea-electronics-dse855
+ - https://www.zerodayinitiative.com/blog/2024/5/23/mindshare-decapping-chips-for-electromagnetic-fault-injection-emfi
 
 
 ### Jfrog (Vdoo)
@@ -318,6 +324,7 @@ https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-39
 - https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf [APT]
 - https://petrusviet.medium.com/cve-2023-50220-inductive-automation-ignition-xml-deserialization-to-rce-7b395412c6cf
 - https://eclypsium.com/blog/flatlined-analyzing-pulse-secure-firmware-and-bypassing-integrity-checking/
+- https://www.shielder.com/blog/2022/03/reversing-embedded-device-bootloader-u-boot-p.1/
 
 
  
