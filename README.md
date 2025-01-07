@@ -84,7 +84,24 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 
 
 ### CrowdStrike
-- https://www.crowdstrike.com/blog/how-to-pwn2own-the-cisco-rv340-router/ 
+- https://www.crowdstrike.com/blog/how-to-pwn2own-the-cisco-rv340-router/
+
+
+### CyberDanube
+- https://cyberdanube.com/security-research/authenticated-remote-code-execution-in-ewon-flexy-205/
+- https://cyberdanube.com/security-research/multiple-vulnerabilities-in-abb-ac500v3/
+- https://cyberdanube.com/security-research/st-polten-uas-path-traversal-in-korenix-jetport/
+- https://cyberdanube.com/security-research/st-polten-uas-stored-cross-site-scripting-in-seh-utnserver-pro/
+- https://cyberdanube.com/security-research/st-polten-uas-multiple-vulnerabilities-in-oring-iap/
+- https://cyberdanube.com/security-research/multiple-vulnerabilities-in-riello-netman-204/
+- https://cyberdanube.com/security-research/authenticated-command-injection-in-helmholz-rex100-router/
+- https://cyberdanube.com/security-research/multiple-vulnerabilities-in-perten-processplus/
+- https://cyberdanube.com/security-research/multiple-vulnerabilities-in-korenix-jetport/
+- https://cyberdanube.com/security-research/multiple-vulnerabilities-in-seh-untserver-pro/
+- https://cyberdanube.com/security-research/multiple-vulnerabilities-in-advantech-eki-15xx-series/
+- https://cyberdanube.com/security-research/authenticated-command-injection-in-hirschmann-belden-bat-c2/
+- https://cyberdanube.com/security-research/multiple-vulnerabilities-in-delta-electronics-dx-2100-l1-cn/
+- https://cyberdanube.com/security-research/authenticated-command-injection-in-delta-electronics-dvw-w02w2-e2/
 
 
 ### CyberArk
