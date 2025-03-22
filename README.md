@@ -71,6 +71,11 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/team82/research/practical-and-theoretical-attacks-in-the-industrial-landscape-part-2
 - https://claroty.com/team82/research/bypassing-rockwell-automation-logix-controllers-local-chassis-security-protection
 - https://claroty.com/team82/research/mms-under-the-microscope-examining-the-security-of-a-power-automation-standard
+- https://claroty.com/team82/research/delving-into-windows-ce-lets-build-an-embedded-windows-application
+- https://claroty.com/team82/research/delving-into-windows-ce-part-2-analyzing-windows-ce-debugging-constructs
+- https://claroty.com/team82/research/hack-the-emulated-planet-vulnerability-hunting-on-planet-wgs-804hpt-industrial-switches
+- https://claroty.com/team82/research/the-insecure-iot-cloud-strikes-again-rce-on-ruijie-cloud-connected-devices
+- https://claroty.com/team82/research/inside-a-new-ot-iot-cyber-weapon-iocontrol (ICS Malware)
 
 
 
@@ -81,6 +86,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-3-exploration/
 - https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-4-memory-corruption-analysis/
 - https://blog.compass-security.com/2024/03/pwn2own-toronto-2023-part-5-the-exploit/
+- https://blog.compass-security.com/2024/08/a-patchdiffing-journey-tp-link-omada/
 
 
 ### CrowdStrike
@@ -200,6 +206,10 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://go.otorio.com/hubfs/Whitepapers%20and%20Reports/whitepaper%20-%20Industrial%20wireless%20IoT%20research.pdf
 - https://www.otorio.com/blog/exploiting-automation-license-manager-using-dfs-for-pcs-7-takeover/
 - https://www.otorio.com/blog/hijacking-abb-800xa-communication-for-admin-privileges/
+
+
+### Palo Alto
+- https://unit42.paloaltonetworks.com/vulnerabilities-in-iconics-software-suite/
 
 
 
