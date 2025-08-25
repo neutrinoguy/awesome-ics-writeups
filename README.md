@@ -76,6 +76,13 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://claroty.com/team82/research/hack-the-emulated-planet-vulnerability-hunting-on-planet-wgs-804hpt-industrial-switches
 - https://claroty.com/team82/research/the-insecure-iot-cloud-strikes-again-rce-on-ruijie-cloud-connected-devices
 - https://claroty.com/team82/research/inside-a-new-ot-iot-cyber-weapon-iocontrol (ICS Malware)
+- https://claroty.com/team82/research/delving-into-windows-ce-lets-build-an-embedded-windows-application
+- https://claroty.com/team82/research/delving-into-windows-ce-part-2-analyzing-windows-ce-debugging-constructs
+- https://claroty.com/team82/research/delving-into-windows-ce-part3-introducing-team82s-open-source-debugger
+- https://claroty.com/team82/research/delving-into-windows-ce-part-4-vulnerability-research-into-a-windows-ce-based-hmi-used-in-the-wild
+- https://claroty.com/team82/research/attention-high-voltage-exploring-the-attack-surface-of-the-rockwell-automation-powermonitor-1000
+- https://claroty.com/team82/research/cascading-chaos-a-got-oriented-exploit-story
+- https://claroty.com/team82/research/turning-camera-surveillance-on-its-axis
 
 
 
@@ -108,6 +115,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://cyberdanube.com/security-research/authenticated-command-injection-in-hirschmann-belden-bat-c2/
 - https://cyberdanube.com/security-research/multiple-vulnerabilities-in-delta-electronics-dx-2100-l1-cn/
 - https://cyberdanube.com/security-research/authenticated-command-injection-in-delta-electronics-dvw-w02w2-e2/
+- https://cyberdanube.com/security-research/multiple-cyber-security-iot-vulnerabilities-in-industrial-router/
 
 
 ### CyberArk
@@ -226,6 +234,7 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
  - https://www.zerodayinitiative.com/blog/2024/8/22/from-pwn2own-automotive-taking-over-the-autel-maxicharger
  - https://www.zerodayinitiative.com/blog/2024/7/25/multiple-vulnerabilities-in-the-deep-sea-electronics-dse855
  - https://www.zerodayinitiative.com/blog/2024/5/23/mindshare-decapping-chips-for-electromagnetic-fault-injection-emfi
+ - https://www.zerodayinitiative.com/blog/2025/6/18/extracting-embedded-multimediacard-emmc-contents-in-system
 
 
 ### Jfrog (Vdoo)
@@ -248,12 +257,14 @@ A collection of writeups related to ICS/SCADA hacking. This covers areas like OT
 - https://www.nozominetworks.com/blog/protecting-the-phoenix-unveiling-critical-vulnerabilities-in-phoenix-contact-hmi-part-3
 - https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-1-firmware-analysis
 - https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-2-vulnerability-analysis
+- https://www.nozominetworks.com/blog/critical-vulnerabilities-found-in-tridium-niagara-framework
 
 
 ### Mandiant
 - https://www.mandiant.com/resources/incontroller-state-sponsored-ics-tool [Malware]
 - https://www.mandiant.com/resources/industroyer-v2-old-malware-new-tricks [Malware]
 - https://www.mandiant.com/resources/blog/sandworm-disrupts-power-ukraine-operational-technology [APT]  
+- https://cloud.google.com/blog/topics/threat-intelligence/securing-protection-relays-modern-substations
 
 ### Medigate
 - https://www.medigate.io/lexmark-printers-firmware-extraction-part-a/
