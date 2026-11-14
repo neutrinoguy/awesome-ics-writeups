@@ -364,6 +364,7 @@ https://medium.com/cognite/pwn2own-or-not2pwn-part-3-the-lazy-mans-escalation-39
 - https://petrusviet.medium.com/cve-2023-50220-inductive-automation-ignition-xml-deserialization-to-rce-7b395412c6cf
 - https://eclypsium.com/blog/flatlined-analyzing-pulse-secure-firmware-and-bypassing-integrity-checking/
 - https://www.shielder.com/blog/2022/03/reversing-embedded-device-bootloader-u-boot-p.1/
+- https://gabrieledattile.github.io/cve-2025-41450.html (CVE-2025-41450 Danfoss AK-SM 8xxA Analysis - Gabriele D'Attile) [:full_moon:]
 
 
  
